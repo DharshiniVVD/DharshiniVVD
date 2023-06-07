@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DharshiniVVD
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Software Engineering at OUSL
-- 💞️ 
+
+
 
 
 <!---
